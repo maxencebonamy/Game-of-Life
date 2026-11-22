@@ -1,4 +1,4 @@
-# Game-of-Life
+# Game of Life
 
 An interactive implementation of Conway's Game of Life.
 
@@ -6,7 +6,7 @@ Draw a starting pattern on the grid with the mouse, then start the simulation wi
 
 ## Table of contents
 
-- [Game-of-Life](#game-of-life)
+- [Game of Life](#game-of-life)
 	- [Table of contents](#table-of-contents)
 	- [How it works](#how-it-works)
 	- [Tech stack](#tech-stack)
